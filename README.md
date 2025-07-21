@@ -11,9 +11,13 @@ User Stats:<br>
   ![User Draft Stats](/undefined?)
 
 ⚙️ Current Quest: 
-  - RESHAPE_INTRO - Introduction to RESHAPE Lab
-    -  ~T1 - What is the RESHAPE Lab?~ [[COMPLETED](https://github.com/OSS-Doorway-Dev/MisanATnau-reshape1-oss-doorway/issues/1)]
-    -  ~T2 - RESHAPE Lab Leadership~ [[COMPLETED](https://github.com/OSS-Doorway-Dev/MisanATnau-reshape1-oss-doorway/issues/2)]
-    - T3 - Open Source Software Understanding [[Click here to start](https://github.com/OSS-Doorway-Dev/MisanATnau-reshape1-oss-doorway/issues/3)]
+  - RESHAPE_ANALYSIS - RESHAPE Lab Repository Analysis
+    - T1 - Count Issues in RESHAPE Lab Repository [[Click here to start](https://github.com/OSS-Doorway-Dev/MisanATnau-reshape1-oss-doorway/issues/4)]
+    - T2 - Repository Language Analysis
+    - T3 - Lab Research Focus
 
 ✅ Completed Quests: 
+  - RESHAPE_INTRO - Introduction to RESHAPE Lab
+    - ~T1 - What is the RESHAPE Lab?~ [[COMPLETED](https://github.com/OSS-Doorway-Dev/MisanATnau-reshape1-oss-doorway/issues/1)]
+    - ~T2 - RESHAPE Lab Leadership~ [[COMPLETED](https://github.com/OSS-Doorway-Dev/MisanATnau-reshape1-oss-doorway/issues/2)]
+    - ~T3 - Open Source Software Understanding~ [[COMPLETED](https://github.com/OSS-Doorway-Dev/MisanATnau-reshape1-oss-doorway/issues/3)]
