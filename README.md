@@ -13,8 +13,8 @@ User Stats:<br>
 ⚙️ Current Quest: 
   - RESHAPE_ANALYSIS - RESHAPE Lab Repository Analysis
     -  ~T1 - Count Issues in RESHAPE Lab Repository~ [[COMPLETED](https://github.com/OSS-Doorway-Dev/MisanATnau-reshape1-oss-doorway/issues/4)]
-    - T2 - Repository Language Analysis [[Click here to start](https://github.com/OSS-Doorway-Dev/MisanATnau-reshape1-oss-doorway/issues/5)]
-    - T3 - Lab Research Focus
+    -  ~T2 - Repository Language Analysis~ [[COMPLETED](https://github.com/OSS-Doorway-Dev/MisanATnau-reshape1-oss-doorway/issues/5)]
+    - T3 - Lab Research Focus [[Click here to start](https://github.com/OSS-Doorway-Dev/MisanATnau-reshape1-oss-doorway/issues/6)]
 
 ✅ Completed Quests: 
   - RESHAPE_INTRO - Introduction to RESHAPE Lab
